@@ -1,14 +1,14 @@
-# Praktikum5
+# Praktikum6
 Baca instruksi yang diberikan dengan baik.
->Praktikum 5 ini adalah lanjutan dari praktikum 4, oleh karena itu
+>Praktikum 6 ini adalah lanjutan dari praktikum 5, oleh karena itu
 >file-file terkait latihan berikut ini bisa anda temukan di folder **src\main\java\praktikum4**.
 
 ## Pendahuluan
-Tujuan dari praktikum 5 kali ini adalah:
+Tujuan dari praktikum 6 kali ini adalah:
 a. Peserta dapat mengimplementasikan bentuk polimorfisme di dalam kode program
 b. Peserta dapat melakukan operasi pada object dengan benar serta mengetahui perbedaan antara shallow clone dengan deep clone.
 
-Pada praktikum ini kalian akan menggunakan kode program soal 2 dari praktikum 4.
+Pada praktikum ini kalian akan menggunakan kode program modul 2 dari praktikum 5.
 Sesuai dengan topik pembelajaran PBO minggu ini yaitu polymorphism dan copy, clone, shallow clone, deep clone, maka pada praktikum kali ini kalian akan mengimplementasikan bentuk2 polymorhism khususnya polymorphic assignment dan polymorphic data structure. Untuk polymorphic data structure, pengetahuan dan kemampuan programming kalian terkait array (topik Minggu II) sangat dibutuhkan. Setelah itu kalian akan berlatih melakukan shallow clone dan deep clone. Sebagai contoh clone yang benar, silahkan melihat method clone() yang ada pada kelas Point.
 >Method clone() adalah method yang diturunkan oleh kelas Objek kepada semua kelas di Java. Silahkan cek Java API.
 
